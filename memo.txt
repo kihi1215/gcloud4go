@@ -1,0 +1,4 @@
+goのdockerイメージとtar.gzで入れたときの GOGCCFLAGS環境変数の違い
+
+tar.gzには「 -pthread -fno-caret-diagnostics -Qunused-arguments」が設定されている
+
